@@ -1,4 +1,6 @@
-int main()
+#include < stdio.h >
+int main (void)
 {
-    return 0;
+puts (“Hello world”);
+return 0;
 }
